@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+io.elasticjob.lite.springboot.autoconfigure.JobParserAutoConfiguration
