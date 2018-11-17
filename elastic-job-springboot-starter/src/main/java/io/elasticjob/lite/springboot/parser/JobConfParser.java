@@ -37,6 +37,7 @@ public class JobConfParser implements ApplicationContextAware {
 
     private Logger logger = LoggerFactory.getLogger(JobConfParser.class);
 
+
     @Autowired
     private ZookeeperRegistryCenter zookeeperRegistryCenter;
 
