@@ -14,7 +14,6 @@
         <module>elastic-job-lite-lifecycle</module>
         <module>elastic-job-lite-console</module>
         <module>elastic-job-springboot-starter</module>
-        <module>elastic-job-lite-example</module>
     </modules>
     
     <properties>
